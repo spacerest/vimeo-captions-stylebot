@@ -1,5 +1,7 @@
 var $form;
 
+<!-- TODO make input field here for css styles -->
+
 function loadConfig() {
 	return new Promise(function(resolve) {
 		if (chrome.storage) {
