@@ -1,6 +1,6 @@
 {
-	"name": "vimeo hotkeys",
-	"description": "Speed, forward, backward hotkeys for Vimeo HTML5 video",
+	"name": "vimeo captions stylebot",
+	"description": "update css style of vimeo captions",
 	"optional_permissions": [ "storage" ],
 
 	"content_scripts": [ {
@@ -16,5 +16,5 @@
 	},
 
 	"version": "1.0",
-	"manifest_version": 2,
+	"manifest_version": 2
 }
